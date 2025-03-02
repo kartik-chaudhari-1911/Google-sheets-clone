@@ -96,6 +96,6 @@ This approach significantly improves performance for large spreadsheets by minim
 - Use the toolbar for formatting and operations
 - Click the help button in the bottom right for function reference
 
-
+## Deployed Link:
 Here is the deployed link for the application:
   - https://google-sheets01.netlify.app/
